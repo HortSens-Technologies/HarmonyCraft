@@ -41,4 +41,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Credits
 
-HarmonyCraft was created by [Your Name].
+HarmonyCraft was created by Adam Boukhare from HortSens Technologies.
