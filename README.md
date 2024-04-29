@@ -32,7 +32,8 @@ HarmonyCraft is a lightweight music arranger program developed using JavaScript,
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed. All rights reserved.
+
 
 ## Contributing
 
